@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RickAndMortyComposeTest</string>
+    <string name="bottom_navigation_all">Todos</string>
+    <string name="bottom_navigation_peson">Personagem</string>
+</resources>
